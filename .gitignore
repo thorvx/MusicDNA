@@ -51,4 +51,4 @@ google-services.json
 gen-external-apklibs
 
 # Configuration file containing API Key
-app/src/main/java/com/sdsmdg/harjot/MusicDNA/Config.java
+#app/src/main/java/com/sdsmdg/harjot/MusicDNA/Config.java
